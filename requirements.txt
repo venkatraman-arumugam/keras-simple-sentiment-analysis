@@ -1,0 +1,5 @@
+requests==2.12.4
+numpy==1.11.3
+pandas==0.22.0
+Keras==2.1.5
+Flask==0.12

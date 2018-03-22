@@ -1,4 +1,4 @@
-## TensorFlask
+## KerasFlask
 A simple web service classifying sentiment of sentences from HTTP POST requests built using [Flask](http://flask.pocoo.org/), [Keras](https://keras.io/) and training on [Twitter data](http://thinknook.com/wp-content/uploads/2012/09/Sentiment-Analysis-Dataset.zip)
 
 The API uses HTTP POST operations to classify sentences that is sent in the request. The single POST request available is /sentiment/classify.
